@@ -1,4 +1,3 @@
-# fireducks-demos-blogathon
 # FireDucks Demos Blogathon
 
 This project showcases various demos using the FireDucks library, including comparisons with Pandas. The goal is to highlight the performance benefits and ease of use of FireDucks for data manipulation tasks.
